@@ -18,6 +18,28 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## API
+
+how api look like.
+
+```json
+[
+    {
+        "id": 1,
+        "title": "Python",
+        "desc": "React is a free and open-source front-end JavaScript library for building user interfaces based on components. It is maintained by Meta and a community of individual developers and companies. React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js.",
+        "created": "2023-08-16T13:36:23.243882+05:30",
+        "modified": "2023-08-17T15:33:54.654114+05:30"
+    },
+    {
+        "id": 2,
+        "title": "Java",
+        "desc": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.",
+        "created": "2023-08-16T13:37:03.016582+05:30",
+        "modified": "2023-08-16T13:37:03.016582+05:30"
+    }
+]
+```
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
